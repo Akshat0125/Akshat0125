@@ -61,20 +61,6 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Akshat0125&theme=radical" />
 </p>
 
----
-
-## 🌱 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat0125&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🌱 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat0125&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" alt="Akshat's contribution graph"/>
-</p>
-
 
 ---
 
