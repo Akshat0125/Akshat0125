@@ -1,81 +1,71 @@
-# 👋 Akshat Upadhyay — Web3 & Rust Developer
+# ✨ Akshat Upadhyay ✨  
+**Blockchain • Rust • Web3 • Systems Developer**
 
-Hi! I’m Akshat — a Web3 and Rust-focused developer building decentralized applications, smart contracts, and high-performance tools.
-
-📍 **India | B.Tech (AI & ML)**
-
----
-
-## 🌐 Live Portfolio
-🔗 https://personal-portfolio-nine-omega-25.vercel.app/
+Hi there 👋 I’m Akshat — a developer focused on building efficient decentralized applications, system tools in Rust, and scalable Web3 projects.
 
 ---
 
-## 🛠️ Tech Expertise
+## 🛠️ Core Skills
 
-**Languages:**  
-Rust • Solidity • JavaScript • Python • HTML • CSS
+### 🚀 Programming & Languages
+Rust • Solidity • JavaScript • Python • HTML • CSS • SQL  
 
-**Frontend:**  
-React.js • Next.js • Tailwind CSS
+### 🧠 Frameworks & Tools
+React.js • Web3.js • Ethers.js • Hardhat • Tailwind CSS • Docker • Git & GitHub  
 
-**Web3 / Blockchain:**  
-Ethereum • Hardhat • Web3.js • Ethers.js • Smart Contracts
+### 🗳️ Web3 & Blockchain
+Ethereum • Smart Contracts • Decentralized Apps (dApps) • Blockchain Fundamentals
 
-**Systems & Tools:**  
-Tokio • Serde • Git • Docker • VS Code • npm
-
-**AI / ML:**  
-Prompt Engineering • NLP applications
+### 🦀 Systems
+Rust async programming with Tokio • Serde for serialization • CLI tooling
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
-### 🗳️ Decentralized Voting DApp  
-A fully functional voting platform on Ethereum with secure authentication and immutable vote recording.  
+### 🗳️ **Decentralized Voting DApp**
+A transparent Ethereum voting platform with immutable vote recording and secure role-based access.
+
 🔗 Live: https://decentravote-green.vercel.app/  
-📦 Code: https://github.com/Akshat0125/Voting-dApp
+📁 Repo: https://github.com/Akshat0125/Voting-dApp
+
+**Tech:** Solidity, React.js, Web3.js, Hardhat
 
 ---
 
-### ⚙️ File Processing CLI Tool (Rust)  
-A high-performance Rust CLI for asynchronous file handling and data processing using Tokio & Serde.  
-📦 Code: https://github.com/Akshat0125/File-Processing-CLI-Tool.git
+### 🛠️ **File Processing CLI Tool (Rust)**
+A high-performance command-line utility written in Rust that performs async file parsing and data processing.
+
+📁 Repo: https://github.com/Akshat0125/File-Processing-CLI-Tool.git
+
+**Tech:** Rust, Tokio, Serde
 
 ---
 
-### 🌐 Personal Portfolio Website  
-Responsive developer portfolio showcasing skills and projects.  
-🔗 Live: https://personal-portfolio-nine-omega-25.vercel.app/  
-📦 Code: (This repo)
+### 🌐 **Personal Portfolio Website**
+Live portfolio site highlighting my work, skills, and experience.
+
+🔗 https://personal-portfolio-nine-omega-25.vercel.app/  
+📁 Repo: https://github.com/Akshat0125/Personal-portfolio
+
+**Tech:** React.js, Tailwind CSS, Vercel
 
 ---
 
-## 📚 Education
+## 📈 GitHub Stats
 
-**Bachelor of Technology — Computer Science (AI & ML)**  
-Galgotias College of Engineering and Technology, Greater Noida  
-2023–2027 (Expected)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshat0125&show_icons=true&theme=radical)
 
 ---
 
-## 💼 Experience & Highlights
+## 📫 Contact Me
 
-- Contributed to an AI-powered tutoring platform at Mindrift (2025)  
-- Practical experience with prompt engineering and AI tool integration  
-- Delivered international freelance software solutions  
-- Built ML and NLP automation tools
-
----
-
-## 📬 Contact Me
-
-- **GitHub:** https://github.com/Akshat0125  
-- **LinkedIn:** https://linkedin.com/in/akshat-up  
-- **X (Twitter):** https://x.com/AkshatU07822878  
-- **Email:** akshatupadhyay2501@gmail.com
+- GitHub: https://github.com/Akshat0125  
+- LinkedIn: https://linkedin.com/in/akshat-up  
+- X (Twitter): https://x.com/AkshatU07822878  
+- Email: akshatupadhyay2501@gmail.com
 
 ---
 
-⭐ Feel free to explore and star any project you're interested in!
+✨ Built with passion and Rust 🦀  
+_Last updated: January 2026_
