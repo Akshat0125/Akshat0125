@@ -1,71 +1,98 @@
-# ✨ Akshat Upadhyay ✨  
-**Blockchain • Rust • Web3 • Systems Developer**
+<h1 align="center">Hi 👋, I'm Akshat Upadhyay</h1>
+<h3 align="center">Rust • Web3 • Blockchain • Systems Programming</h3>
 
-Hi there 👋 I’m Akshat — a developer focused on building efficient decentralized applications, system tools in Rust, and scalable Web3 projects.
-
----
-
-## 🛠️ Core Skills
-
-### 🚀 Programming & Languages
-Rust • Solidity • JavaScript • Python • HTML • CSS • SQL  
-
-### 🧠 Frameworks & Tools
-React.js • Web3.js • Ethers.js • Hardhat • Tailwind CSS • Docker • Git & GitHub  
-
-### 🗳️ Web3 & Blockchain
-Ethereum • Smart Contracts • Decentralized Apps (dApps) • Blockchain Fundamentals
-
-### 🦀 Systems
-Rust async programming with Tokio • Serde for serialization • CLI tooling
+<p align="center">
+  <a href="https://github.com/Akshat0125">
+    <img src="https://komarev.com/ghpvc/?username=Akshat0125&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🦀 About Me
 
-### 🗳️ **Decentralized Voting DApp**
-A transparent Ethereum voting platform with immutable vote recording and secure role-based access.
-
-🔗 Live: https://decentravote-green.vercel.app/  
-📁 Repo: https://github.com/Akshat0125/Voting-dApp
-
-**Tech:** Solidity, React.js, Web3.js, Hardhat
+- 🛠️ Focused on **Rust systems programming** and **Blockchain development**
+- 🔗 Building **Ethereum dApps**, smart contracts, and async Rust tools
+- ⚙️ Interested in **performance, safety, and scalability**
+- 🎓 B.Tech CSE (AI & ML) @ Galgotias College of Engineering and Technology (2023–2027)
 
 ---
 
-### 🛠️ **File Processing CLI Tool (Rust)**
-A high-performance command-line utility written in Rust that performs async file parsing and data processing.
+## 🧰 Tech Stack
 
-📁 Repo: https://github.com/Akshat0125/File-Processing-CLI-Tool.git
+### Languages
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-gray?style=for-the-badge&logo=solidity)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-**Tech:** Rust, Tokio, Serde
-
----
-
-### 🌐 **Personal Portfolio Website**
-Live portfolio site highlighting my work, skills, and experience.
-
-🔗 https://personal-portfolio-nine-omega-25.vercel.app/  
-📁 Repo: https://github.com/Akshat0125/Personal-portfolio
-
-**Tech:** React.js, Tailwind CSS, Vercel
+### Frameworks & Tools
+- Rust: **Tokio, Serde**
+- Web3: **Ethereum, Web3.js, Ethers.js, Hardhat**
+- Frontend: **React.js, Tailwind CSS**
+- Tooling: **Git, Docker, VS Code**
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Work
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshat0125&show_icons=true&theme=radical)
+### 🗳️ Decentralized Voting DApp
+A secure Ethereum-based voting system with immutable vote recording and role-based access control.
+
+- 🔗 Live: https://decentravote-green.vercel.app/
+- 📁 Repo: https://github.com/Akshat0125/Voting-dApp
+- 🧪 Stack: Solidity, React, Web3.js, Hardhat
 
 ---
 
-## 📫 Contact Me
+### ⚙️ File Processing CLI Tool (Rust)
+High-performance async CLI for file parsing and processing.
+
+- 📁 Repo: https://github.com/Akshat0125/File-Processing-CLI-Tool.git
+- 🧪 Stack: Rust, Tokio, Serde
+- 🔑 Focus: async I/O, memory safety, modular design
+
+---
+
+### 🌐 Personal Portfolio
+Live website showcasing projects and skills.
+
+- 🔗 https://personal-portfolio-nine-omega-25.vercel.app/
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat0125&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat0125&layout=compact&theme=default" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat0125&theme=github-compact"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshat0125&theme=default"/>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: https://github.com/Akshat0125  
 - LinkedIn: https://linkedin.com/in/akshat-up  
-- X (Twitter): https://x.com/AkshatU07822878  
+- X: https://x.com/AkshatU07822878  
 - Email: akshatupadhyay2501@gmail.com
 
 ---
 
-✨ Built with passion and Rust 🦀  
-_Last updated: January 2026_
+🦀 **Rust-first mindset. Systems over hype.**
