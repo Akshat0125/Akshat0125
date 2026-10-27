@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9945FF,100:14F195&height=230&section=header&text=Akshat%20Upadhyay&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rust%20%E2%80%A2%20Solana%20%E2%80%A2%20Anchor%20%E2%80%A2%20On-Chain%20Programs&descAlignY=60&descAlign=50" />
+<img src="./assets/header.svg" alt="Akshat Upadhyay - Solana Developer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+trustless+programs+on+Solana+%E2%9A%93;Escrow+%7C+Vaults+%7C+Token-2022+%7C+Metaplex+%7C+PDAs;Learning+in+public+%E2%80%94+Week+12+of+16+%F0%9F%A6%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+trustless+programs+on+Solana+%E2%9A%93;Escrow+%7C+Vaults+%7C+Token-2022+%7C+Metaplex+%7C+PDAs;Learning+Solana+in+public+%F0%9F%A6%80)](https://git.io/typing-svg)
 
 ![Solana](https://img.shields.io/badge/Network-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-1.0.0-14F195?style=flat-square&logoColor=black)
@@ -31,7 +31,7 @@ fn main() {
         chain:     "Solana",
         framework: "Anchor 1.0.0",
         focus:     vec!["Escrow & Vaults", "Token-2022", "Metaplex Metadata", "PDAs", "LiteSVM Testing"],
-        learning:  "Structured 16-week Solana curriculum (currently Week 11-12)",
+        learning:  "Solana, in public",
         college:   "Galgotias College of Engineering & Technology (2023-2027)",
     };
 
@@ -50,12 +50,6 @@ fn main() {
 | 🎟️ **Event Attendance NFT** | Soulbound badge dApp (Anchor + Next.js), live on devnet |
 | 🛠️ **solana-dev-mcp** | Extending the Solana Foundation's MCP server with tools like `explainAnchorError`, `decodePDA` and `inspectTokenAccount` |
 | ✍️ **Writing** | Documenting the journey on X weekly and drafting my first Substack post on building a trustless escrow |
-
-### 🗓️ 16-Week Solana Curriculum
-
-```
-Progress  [██████████████████░░░░░░]  ~Week 12 / 16
-```
 
 ---
 
@@ -247,18 +241,8 @@ High-performance async CLI tool for file parsing and processing with Rust.
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshat0125&bg_color=0d1117&color=9945FF&line=14F195&point=9945FF&area=true&hide_border=true)](https://github.com/Akshat0125)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9945FF,100:14F195&height=120&section=footer&text=Rust-first.%20Solana-native.%20Building%20on-chain.&fontSize=18&fontColor=ffffff&animation=fadeIn" />
+<img src="./assets/footer.svg" alt="Rust-first. Solana-native. Building on-chain." width="100%" />
 
 </div>
