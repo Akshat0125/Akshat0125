@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Akshat Upadhyay - Solana Developer" width="100%" />
+<img src="./header.svg" alt="Akshat Upadhyay - Solana Developer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Building+trustless+programs+on+Solana+%E2%9A%93;Escrow+%7C+Vaults+%7C+Token-2022+%7C+Metaplex+%7C+PDAs;Learning+Solana+in+public+%F0%9F%A6%80)](https://git.io/typing-svg)
 
@@ -243,6 +243,6 @@ High-performance async CLI tool for file parsing and processing with Rust.
 
 <div align="center">
 
-<img src="./assets/footer.svg" alt="Rust-first. Solana-native. Building on-chain." width="100%" />
+<img src="./footer.svg" alt="Rust-first. Solana-native. Building on-chain." width="100%" />
 
 </div>
